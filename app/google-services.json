@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "503666147812",
+    "firebase_url": "https://fir-authentication-bae87.firebaseio.com",
+    "project_id": "fir-authentication-bae87",
+    "storage_bucket": "fir-authentication-bae87.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:503666147812:android:750ee59e85beb541",
+        "android_client_info": {
+          "package_name": "com.example.iteradmin.finalproject"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "503666147812-jblv1mfmjspghos6vumhdh9r9imae6ku.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAxgl9qL_3JCl-4b-6CFw75oOHPb9w3Z7Q"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "503666147812-jblv1mfmjspghos6vumhdh9r9imae6ku.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
